@@ -1,4 +1,4 @@
-# EcoVEST AI Project Readme
+# EcoVEST AI Part
 
 In our EcoVEST project, we have placed a strong emphasis on developing an innovative solution rooted in the realm of Artificial Intelligence (AI) to address the persistent and pressing issue of waste management in extremely sensitive mountain environments. A core component of this groundbreaking initiative involved the meticulous implementation and training of a cutting-edge AI model, none other than YOLOv5. This model stands out for its exceptional efficiency and precision in detecting objects in images, qualities that are quintessential to dealing with the intricacies of mountainous terrains.
 
@@ -34,14 +34,14 @@ In the course of developing and refining our AI model, we harnessed a diverse se
 
 The continuous assessment of the model played a pivotal role in honing its capabilities and ensuring it consistently delivered precise and reliable results in the challenging task of mountain waste detection.
 
-![Detection GIF](https://cdn.upload.systems/uploads/coZaAQyW.gif)
+![Detection GIF](https://github.com/AndrewDisco/EcoVest/blob/main/images/everestDetect1.gif?raw=true)
 
 ## Training Progress Visualization
 
 We would like to offer a comprehensive view of the training progress through the following graphical representation:
 
-![Training Progress](https://cdn.upload.systems/uploads/4nLarSBZ.png)
+![Training Progress](https://github.com/AndrewDisco/EcoVest/blob/main/images/resultscap.png?raw=true)
 
-This visual insight into our model's evolution during the training process underscores our commitment to transparency and accountability. 
+This visual insight into our model's evolution during the training process underscores our commitment to transparency and accountability.
 
 For any inquiries or further information, please do not hesitate to reach out to us. Thank you for your interest in the EcoVEST AI project. Your support is invaluable as we strive to make our mountainous environments cleaner and more sustainable.
